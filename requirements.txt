@@ -1,3 +1,5 @@
 web3==5.31.0
 halo
 requests
+eth-keyfile>=0.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
+websockets>=10.0 # not directly required, pinned by Snyk to avoid a vulnerability
