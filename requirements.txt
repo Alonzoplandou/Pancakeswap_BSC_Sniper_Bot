@@ -1,3 +1,4 @@
 web3==5.31.0
 halo
 requests
+eth-abi>=4.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
